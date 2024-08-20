@@ -1,0 +1,6 @@
+input-dir,sample,output-dir
+WGS/x30_duplicates/H016_pAsc_CL_P15,H016_pAsc-P15,WGS_merged/H016_pAsc-P15
+WGS/x30_duplicates/H016_rAsc_CL_P15,H016_rAsc-P15,WGS_merged/H016_rAsc-P15
+WGS/x30_duplicates/H092_pOme1_CL_P9,H092_pOme1-P9,WGS_merged/H092_pOme1-P9
+WGS/x30_duplicates/H092_rAsc_CL_P15,H092_rAsc-P15,WGS_merged/H092_rAsc-P15
+WGS/x30_duplicates/H131_iAsc_CL_P15,H131_iAsc-P15,WGS_merged/H131_iAsc-P15
