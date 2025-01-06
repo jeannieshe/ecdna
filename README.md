@@ -1,11 +1,10 @@
 ## Analyzing extrachromosomal circular DNA from ovarian cancer organoid whole genome sequencing.
 
 ### About
-A collection of scripts from a summer internship with the Wennerberg Lab at the Biotech Research and Innovation Center in the University of Copenhagen. Thank you to David Fontaneda, Jeremy Ariey-Bonnet, Laure Gall-Mas, and Krister Wennerberg for the advice, support, and guidance throughout the summer.
+A collection of scripts from a summer internship with the Wennerberg Lab at the Biotech Research and Innovation Center in the University of Copenhagen. Thank you to David Fontaneda, Jeremy Ariey-Bonnet, Laura Gall-Mas, and Krister Wennerberg for the advice, support, and guidance throughout the summer.
 
 ### Project
-The publication of [AmpliconArchitect](https://github.com/virajbdeshpande/AmpliconArchitect) fundamentally changed how extrachromosomal
-DNA can be analyzed. Simultaneously, several labs have recently published more evidence about extrachromosomal, circular DNA (ecDNA) having a unique role or possible correlation with cancers. Over the summer, I researched the role of ecDNA in ovarian cancer in both a wet-lab and dry-lab capacity.
+The publication of [AmpliconArchitect](https://github.com/virajbdeshpande/AmpliconArchitect) fundamentally changed how extrachromosomal DNA can be analyzed. Simultaneously, several labs have recently published more evidence about extrachromosomal, circular DNA (ecDNA) having a unique role or possible correlation with cancers. Over the summer, I researched the role of ecDNA in ovarian cancer in both a wet-lab and dry-lab capacity.
 
 ### Skills gained
 Over the course of a short 10 weeks, I became skilled at using a Linux terminal, SSHing into a shared computer (Tycho), working with screens on terminals, and coding in Python, R, and bash. Importantly, I also sharpened my science communication skills through sharing my insights with the lab. Creating graphs (some of which are in *results*) and lab presentations for a lay audience improved my ability to convey complex concepts, deepened my understanding of biological principles, and clarified the key aspects of my project.
